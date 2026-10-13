@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/mypro" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/pro1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/studentapi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/movie_api" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -19,3 +19,20 @@ class Studentlist(View):
         # print(type(data))
         print(data)
         return JsonResponse(data,safe=False)
+
+
+#API for vreating new student record
+class Studentcreate(View):
+    def post(self,request):
+
+        #fetch data from client
+
+
+        #convert Json to python native type
+
+
+        #store data into DB Table using ORM query
+
+
+        #return response to client
+        return JsonResponse({"message":"created"})
